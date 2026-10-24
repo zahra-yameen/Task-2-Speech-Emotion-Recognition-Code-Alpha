@@ -1,0 +1,19 @@
+Speech Emotion Recognition - Test Results
+
+Test loss: 1.6071
+Test accuracy: 0.4500
+
+              precision    recall  f1-score   support
+
+     neutral       0.27      0.38      0.32        16
+        calm       0.43      0.62      0.51        32
+       happy       0.32      0.19      0.24        32
+         sad       0.23      0.16      0.19        32
+       angry       0.52      0.50      0.51        32
+     fearful       0.50      0.19      0.27        32
+     disgust       0.45      0.53      0.49        32
+   surprised       0.65      1.00      0.79        32
+
+    accuracy                           0.45       240
+   macro avg       0.42      0.45      0.41       240
+weighted avg       0.43      0.45      0.42       240
