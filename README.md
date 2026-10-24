@@ -146,7 +146,7 @@ The model should be evaluated on recordings that were not used during training. 
 
 ## Live Demo
 
-[Open the Streamlit application](YOUR-STREAMLIT-APP-URL)
+[Open the Streamlit application](-----)
 
 Replace the placeholder with your deployed app URL. If you have not deployed it yet, remove this section until the app is live.
 
