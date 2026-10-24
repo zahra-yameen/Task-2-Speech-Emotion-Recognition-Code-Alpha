@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Keep the trained model; ignore temporary training files
+*.tmp
