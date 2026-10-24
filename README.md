@@ -166,7 +166,7 @@ Replace the placeholder with your deployed app URL. If you have not deployed it 
 
 ## Author
 
-**YOUR NAME**
+**ZAHRA YAMEEN**
 
 GitHub: https://github.com/ZAHRA-YAMEEN
 
