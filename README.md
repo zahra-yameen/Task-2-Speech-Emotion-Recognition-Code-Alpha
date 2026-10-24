@@ -82,7 +82,7 @@ git clone https://github.com/YOUR-USERNAME/Speech-Emotion-Recognition.git
 cd Speech-Emotion-Recognition
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
+Replace `ZAHRA YAMEEN` with your GitHub username.
 
 ### 2. Create a virtual environment
 
@@ -146,7 +146,7 @@ The model should be evaluated on recordings that were not used during training. 
 
 ## Live Demo
 
-[Open the Streamlit application](-----)
+[Open the Streamlit application](https://task-2-speech-emotion-recognition-code-alpha-6kyrtb9zjsxgteayb.streamlit.app/)
 
 Replace the placeholder with your deployed app URL. If you have not deployed it yet, remove this section until the app is live.
 
